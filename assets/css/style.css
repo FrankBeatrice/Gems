@@ -1,0 +1,81 @@
+body {
+    background: url(../images/backround.gif);
+    background-repeat: repeat;
+}
+
+#screen {
+    overflow: auto;
+}
+
+#screen div {
+    float: left;
+}
+
+#title {
+    background: url(../images/StevenUgangbanner.jpg);
+    color: whit width: 200px;
+    height: 700px;
+    margin-bottom: 10px;
+}
+
+#rules-area {
+    background: url(../images/StevenUgang.png);
+    font-family: 'Geo', sans-serif;
+    font-weight: bold;
+    width: 680px;
+    height: 300px;
+    color: pink;
+    padding: 295px;
+}
+
+#random-area {
+    background: white;
+    width: 200px;
+    height: 100px;
+    color: ghostwhite;
+    padding: 4px;
+}
+
+#random-number {
+    color: pink;
+    font-size: 3vw;
+}
+
+#score-area {
+    background: white;
+    width: 210px;
+    height: 100px;
+    color: pink;
+    padding: 4px;
+}
+
+#score-title {
+    color: white;
+    background: pink;
+    width: 210px;
+    padding: 4px;
+    margin-bottom: 10px;
+}
+
+.crystals-button {
+    display: inline;
+    width: 50px;
+    height: 50px;
+}
+
+#score-number {
+    font-size: 3vw;
+}
+
+#winArea {
+    height: 100px;
+    padding: 4px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    background-color: pink;
+}
+
+#winArea p {
+    color: white;
+    color: ghostwhite;
+}
